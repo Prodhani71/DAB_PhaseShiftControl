@@ -44,8 +44,3 @@ Where:
 
 ---
 
-## How to Run
-
-1. Open MATLAB (with Simulink and Simscape Electrical installed).
-2. Open the `.slx` model file directly.
-3. Run the simulation and open the Scope blocks to view the AC transformer current, bridge terminal voltages, and DC output power.
